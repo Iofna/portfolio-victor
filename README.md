@@ -1,4 +1,3 @@
-# portfolio-victor
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -13,20 +12,20 @@
       padding: 0;
     }
 
-  body {
+    body {
       font-family: Arial, sans-serif;
       background: linear-gradient(to right, #ffecd2, #fcb69f);
       color: #333;
     }
 
-   header {
+    header {
       background-color: #ff5722;
       color: white;
       padding: 20px;
       text-align: center;
     }
 
-  nav {
+    nav {
       background-color: #fff3e0;
       display: flex;
       justify-content: center;
@@ -34,23 +33,23 @@
       gap: 30px;
     }
 
-   nav a {
+    nav a {
       text-decoration: none;
       color: #ff5722;
       font-weight: bold;
       font-size: 18px;
     }
 
-   nav a:hover {
+    nav a:hover {
       text-decoration: underline;
     }
 
-   main {
+    main {
       padding: 40px 20px;
       text-align: center;
     }
 
-  .botao-contato {
+    .botao-contato {
       display: inline-block;
       margin: 15px;
       padding: 15px 25px;
@@ -63,15 +62,15 @@
       transition: 0.3s;
     }
 
-  .botao-contato i {
+    .botao-contato i {
       margin-right: 10px;
     }
 
-   .botao-contato:hover {
+    .botao-contato:hover {
       background-color: #e64a19;
     }
 
-   footer {
+    footer {
       background-color: #ff5722;
       color: white;
       text-align: center;
@@ -98,12 +97,12 @@
       <p>Sou estudante da UFSC e IFSC com foco em design gráfico, projetos técnicos e programação.</p>
     </section>
 
-  <section id="projetos" style="margin-top: 60px;">
+    <section id="projetos" style="margin-top: 60px;">
       <h2>Projetos em Destaque</h2>
       <p>Artes visuais, identidades visuais e projetos técnicos de destaque.</p>
     </section>
 
-  <section id="contato" style="margin-top: 60px;">
+    <section id="contato" style="margin-top: 60px;">
       <h2>Entre em Contato</h2>
       <div class="contato-container">
         <a class="botao-contato" href="https://wa.me/5548999397911" target="_blank">
@@ -127,3 +126,4 @@
   </footer>
 </body>
 </html>
+
